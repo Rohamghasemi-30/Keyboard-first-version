@@ -1,0 +1,400 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    position: relative;
+    top: 200px;
+    left: 50px;
+    width: 800px;
+}
+button:hover{
+    background-color: #363636;
+}
+button:active{
+    background-image: linear-gradient(green ,red);
+}
+body{
+    width: 1388px;
+    height: 756px;
+    border-radius: 15px;
+    background: linear-gradient(352deg, #67ff00, #ff0000, #3700ff, #ff0000, #ff00b3);
+    background-size: 1600% 1600%;
+    -webkit-animation: AnimationName 5s ease infinite;
+    -moz-animation: AnimationName 4s ease infinite;
+    animation: AnimationName 6s ease infinite;
+}
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 74%}
+    50%{background-position:100% 27%}
+    100%{background-position:0% 74%}  
+}
+.kay{
+    width: 190px;
+    position: relative;
+    left: 870px;
+    bottom: 58px;
+}
+button{
+    width: 50px;
+    height: 40px;
+}
+.tsco{
+width: 416px;
+}
+.walk{
+width: 700px;
+}
+.able{
+    width: 60px;
+}
+.kays{
+    width: 200px;
+    position: relative;
+    left: 870px;
+bottom: 1px;
+}
+.F{
+    border-radius: 10px;
+    border-color: black;
+    border-width: 8px;
+    display: inline;
+    background-color: aqua;
+}
+.F1{
+    display: inline;
+}
+.fix{
+    position: relative;
+    left: 55px;
+}
+.very{
+    position: relative;
+    left: 40px;
+}
+.offer{
+    position: relative;
+    left: 25px;
+}
+.F7{
+    border-radius: 10px;
+    border-color: black;
+    border-width: 6px;
+    display: inline;
+    background-color: rgb(255, 0, 0);
+}
+.F5{
+    border-radius: 10px;
+    border-color: black;
+    border-width: 5px;
+    display: inline;
+    background-color: rgb(0, 81, 255);
+}
+.kayv{
+    width: 200px;
+    position: relative;
+    bottom: 83px;
+    left: 870px;
+}
+.F3{
+    border-radius: 10px;
+    border-color: black;
+    border-width: 5px;
+    display: inline;
+    background-color: rgb(9, 255, 0);
+}
+.up{
+    width: 100px;
+    position: relative;
+    left: 939px;
+    top: 12px;
+}
+.F9{
+    border-radius: 10px;
+    border-color: black;
+    border-width: 5px;
+    display: inline;
+    background-color: rgb(153, 0, 255);
+}
+.down{
+    width: 180px;
+    position: relative;
+    left: 885px;
+    top: 18px;  
+}
+.tab{
+    position: relative;
+    top: 4px;
+}
+.pen{
+    position: relative;
+    top: 8px;
+}
+.pass{
+    position: relative;
+    top: 12px;
+}
+.dark{
+    position: relative;
+    top: 16px;
+}
+span.pen button:nth-child(1){
+   width: 75px;
+}
+span.tab button:nth-child(1){
+    width: 75px;
+}
+span.pen button:nth-child(13){
+   width: 120px;
+}
+span.tab button:nth-child(14){
+width: 65px;
+}
+span.death button:nth-child(14){
+width: 90px;
+}
+span.pass button:nth-child(1){
+    width: 124px;
+}
+span.pass button:nth-child(12){
+    width: 124px;
+}
+.Veni{
+    background-color: red;
+    border-radius: 10px;
+    border-width: 5px;
+}
+button{
+    border-radius: 7px;
+    border-color: black;
+    border-width: 5px;
+    display: inline;
+    background-color: rgb(94, 94, 94);
+}
+.care{
+    width: 100px;
+    height: 240px;
+    position: relative;
+    bottom: 190px;
+    left: 1090px;
+}
+.plus{
+    height: 100px;
+    position: relative;
+    left: 164px;
+    bottom: 35px;
+}
+.been{
+    position: relative;
+    top: 4px;
+}
+.num{
+    position: relative;
+    bottom: 90px;
+}
+.name{
+    position: relative;
+    bottom: 85px;
+}
+.zero{
+    position: relative;
+    bottom: 80px;
+}
+.one{
+    width: 105px;
+}
+.care{
+    width: 500px;
+    position: relative;
+    bottom: 202px;
+}
+.managed{
+    background-color: #ffc400;
+}
+.saying{
+    background-color: black;
+    width: 190px;
+    height: 40px;
+    position: relative;
+    bottom: 421px;
+    border-radius: 15px;
+    text-align: center;
+}
+.saying h4{
+    color: white;
+    display: inline;
+    text-align: center;
+    position: relative;
+    top: 19px;
+}
+.saying h4:nth-child(1){
+    position: relative;
+    right: 20px;
+}
+.saying h4:nth-child(3){
+    position: relative;
+    left: 20px;
+}
+.circle{
+    background-color: blue;
+    width: 10px;
+    height: 10px;
+    position:relative;
+    bottom: 455px;
+    left: 30px;
+    border-radius: 50%;
+}
+.Caps{
+width: 10px;
+height: 10px;
+border-radius: 50%;
+background-color: #535353;
+opacity: 0.6;
+position: relative;
+bottom: 475px;
+left: 145px;
+}
+.Scroll{
+width: 10px;
+height: 10px;
+border-radius: 50%;
+background-color: #535353;
+opacity: 0.6;
+position: relative;
+bottom: 465px;
+left: 87px;
+}
+.nav{
+    background-color: black;
+    width: 350px;
+    height: 35px;
+    position: relative;
+    top: 220px;
+    left: 120px;
+    border-radius: 20px;
+}
+.nav i{
+    color: white;
+    text-align: center;
+}
+.nav i:nth-child(5){
+    position: relative;
+left: 209px;
+top: 8px;
+}
+.nav i:nth-child(4){
+    position: relative;
+left: 160px;
+top: 8px;
+}
+.nav i:nth-child(3){
+    position: relative;
+left: 115px;
+top: 8px;
+}
+.nav i:nth-child(2){
+    position: relative;
+left: 75px;
+top: 8px;
+}
+.nav i:nth-child(1){
+    position: relative;
+left: 40px;
+top: 8px;
+}
+.nav i:nth-child(5):hover{
+    color: green;
+}
+.nav i:nth-child(4):hover{
+    color: rgb(17, 0, 255);
+}
+.nav i:nth-child(3):hover{
+    color: rgb(90, 90, 90);
+}
+.nav i:nth-child(2):hover{
+    color: rgb(255, 208, 0);
+}
+.nav i:nth-child(1):hover{
+    color: purple;
+}
+.navbar{
+    background-color: black;
+    width: 350px;
+    height: 35px;
+    position: relative;
+    top: 185px;
+    left: 797px;
+    border-radius: 20px;
+}
+.navbar i{
+color: white;
+}
+.navbar i:nth-child(5){
+    position: relative;
+left: 209px;
+top: 8px;
+}
+.navbar i:nth-child(4){
+    position: relative;
+left: 160px;
+top: 8px;
+}
+.navbar i:nth-child(3){
+    position: relative;
+left: 115px;
+top: 8px;
+}
+.navbar i:nth-child(2){
+    position: relative;
+left: 75px;
+top: 8px;
+}
+.navbar i:nth-child(1){
+    position: relative;
+left: 40px;
+top: 8px;
+}
+
+.navbar i:nth-child(5):hover{
+   color: rgb(255, 123, 0);
+}
+.navbar i:nth-child(4):hover{
+    color: #ff0000;
+}
+.navbar i:nth-child(3):hover{
+  color: #ff0000;
+}
+.navbar i:nth-child(2):hover{
+ color: fuchsia;
+}
+.navbar i:nth-child(1):hover{
+   color: fuchsia;
+}
+.system{ width: 390px; height: 0px; border-bottom:100px solid #000000 ; ; border-right:70px solid transparent;
+    border-left:70px solid transparent; 
+    transform: rotate(180deg);
+    position: relative;
+    left: 435px;
+    bottom: 615px;
+}
+.system h1{
+    color: green;
+    text-align: center;
+    transform: rotate(180deg);
+    position: relative;
+    top: 35px;
+    text-decoration: rgb(0, 0, 0);
+}
+.shop{
+    height: 68px;
+    position: relative;
+    left: 165px;
+    bottom: 150px;
+}
+.system a h1:hover{
+    color: red;
+}
+.system a h1:active{
+    color: green;
+}
